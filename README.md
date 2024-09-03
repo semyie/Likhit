@@ -2,7 +2,7 @@
 
 TrOCR is an OCR (Optical Character Recognition) model proposed by Minghao Li et al. in their paper titled <a href="https://arxiv.org/abs/2109.10282">TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models</a>. This model is composed of an image Transformer encoder and an autoregressive text Transformer decoder, enabling it to accurately perform OCR.
 
-In this repository, you will find TrOCR, an OCR model specifically developed for recognizing handwritten Indian documents in various languages including Hindi, Tamil, Malayalam, Bengali, and more. The TrOCR model has been designed to accurately detect and convert text in these languages from images of handwritten documents, making it a valuable tool for various applications such as digitizing old documents, extracting information from scanned documents, and more.
+In this repository, you will find TrOCR, an OCR model specifically developed for recognizing handwritten Indian documents in various languages including Hindi. The TrOCR model has been designed to accurately detect and convert text in these languages from images of handwritten documents, making it a valuable tool for various applications such as digitizing old documents, extracting information from scanned documents, and more.
 
 ## Installation
 
